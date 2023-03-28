@@ -11,3 +11,4 @@ public class MenuVueImpl implements MenuVue {
         return scanner.nextLine();
     }
 }
+

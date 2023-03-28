@@ -5,6 +5,7 @@ public abstract class Item {
 
     private boolean actif = true;
 
+
     public boolean isActif() {
         return actif;
     }

@@ -18,6 +18,7 @@ public class Menu extends Item {
         return finish;
     }
 
+
     public void setFinish(boolean finish) {
         this.finish = finish;
     }
