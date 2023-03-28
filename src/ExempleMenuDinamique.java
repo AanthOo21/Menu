@@ -24,9 +24,12 @@ class ExempleControler implements Runnable {
         Menu actionSurX = menuBuilder.start("Action sur X");
         for (int i = 0; i < list.size(); i++) {
             int pos = i;
-            menuBuilder.addItem(pos+1 +"", list.get(pos), () -> action(pos));
+            menuBuilder.addItem(pos+1 +"", getLibel(pos), () -> action(pos));
         }
         actionSurX.execute();
+    }
+    private String getLibel(int pos){
+        return list.get(pos);
     }
     public void action(int pos) {
         String element = list.get(pos);
