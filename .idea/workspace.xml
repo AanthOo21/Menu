@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbdf121d-b71a-408e-abb7-25d89659de0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Menu.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/menu/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/menu/ItemExcecutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/menu/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/menu/MenuBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/menu/MenuVue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/menu/MenuVueImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/technifutur/menu/MenuVueLigne.java" afterDir="false" />
+    <list default="true" id="cbdf121d-b71a-408e-abb7-25d89659de0b" name="Changes" comment="Menu">
+      <change afterPath="$PROJECT_DIR$/src/ExempleMenuDinamique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/technifutur/menu/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/technifutur/menu/Item.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,19 +34,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/studentdev01/Documents/java/Decouverte"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/studentdev01/Documents/java/Menu&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="be.technifutur.menu" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ExempleMenuDinamique">
+    <configuration name="ExempleMenuDinamique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExempleMenuDinamique" />
+      <module name="Menu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Menu" />
@@ -67,6 +63,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExempleMenuDinamique" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -80,6 +77,25 @@
       <option name="presentableId" value="Default" />
       <updated>1679576588675</updated>
     </task>
+    <task id="LOCAL-00001" summary="Menu">
+      <created>1679985477832</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679985477832</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Menu">
+      <created>1679985619135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679985619135</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Menu" />
   </component>
 </project>
